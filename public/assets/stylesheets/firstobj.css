@@ -1,0 +1,40 @@
+h2{
+  text-align: center;
+}
+#footerItem{
+  width: 100%;
+  overflow: hidden;
+  position: fixed;
+  bottom: 0;
+  background: rgb(253,253,252);
+  border-top: 1px solid #b3b3b3;
+}
+#footerItem li{
+  width: 25%;
+  float: left;
+  text-align: center;
+  list-style: none;
+  padding-top: 25px;
+  position:relative;
+}
+.honrPage{
+  display: block;
+  background-color: #555555;
+  color: white;
+}
+.container{
+
+}
+nav{
+  text-align: center;
+  background-color: #555555;
+  color: white;
+  font-size: 15px;
+}
+.footerItemPage{
+  position: absolute;
+  top: 0;
+  left: 40%;
+  font-size: 20px;
+  color: #444444;
+}
